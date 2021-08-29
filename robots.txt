@@ -1,0 +1,3 @@
+User-Agent: *
+Host: https://da.crazysquirrel.ru
+Sitemap: https://da.crazysquirrel.ru/sitemap.xml
